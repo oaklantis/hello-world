@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Greetings true believers!
+
+Oaklantis here, I like JavaScript.  I had steak and eggs and potatoes with some sausages for lunch.
